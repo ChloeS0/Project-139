@@ -1,0 +1,43 @@
+body{
+    background-size: cover;
+}
+
+.div
+{
+    width:100%;
+    text-align:left;
+}
+
+
+
+.div h3{
+
+    display: inline;
+}
+
+#button
+{
+    float: right;
+    border-color: white;
+    border-width: 2px;
+    border-style: solid;
+}
+
+h5{
+    text-align: left;
+    font-size: 15px;
+}
+
+.footer{
+    background-color: grey;
+    text-align: center;
+    bottom: 0;
+    line-height: 3;
+    position: fixed;
+    width: 100%;
+}
+
+.modal-dialog
+{
+    width:90%;
+}
